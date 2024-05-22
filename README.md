@@ -116,8 +116,4 @@ Contributions are what make the open source community such an amazing place to b
 :rocket: [`Demo Telegram Clone`](https://bit.ly/telegram_next)
 
 <!-- CONTACT -->
-## Contact
 
-My Email : aryairama987@gmail.com
-
-Project Link: [https://github.com/aryairama/telegram-next-js](https://github.com/aryairama/telegram-next-js)
